@@ -1,5 +1,26 @@
 # 🏠 Real Estate AI Assistant
 
+**Last Updated**: JULY 2025  
+**Version**: 1.0.0  
+**Maintainer**: Navaneethakrishnan S
+
+The Real Estate AI Assistant is an intelligent Streamlit-based application that provides conversational AI capabilities for real estate data analysis and customer support. The system leverages Google's Gemini AI models and FAISS vector search to deliver contextual responses based on uploaded property data and guidelines.
+
+## 🎯 Key Features
+
+### Core Functionality
+- **Intelligent Document Processing**: Supports both property data (Excel/CSV) and guideline documents (PDF)
+- **Vector-Based Search**: Uses FAISS indexing with Google's embedding models for semantic search
+- **Conversational AI Interface**: Chat-based interaction powered by Google Gemini 2.5 Pro
+- **Real-time Data Processing**: Asynchronous embedding generation for optimal performance
+- **Multi-format Support**: Handles CSV, Excel (.xls, .xlsx), and PDF file formats
+
+### User Experience
+- **Interactive Chat Interface**: Persistent conversation history with context retention
+- **Quick Action Buttons**: Pre-configured queries for common real estate inquiries
+- **Progress Tracking**: Real-time feedback during data processing operations
+- **Responsive Design**: Mobile-friendly interface with custom CSS styling
+
 ## 💡 Usage Examples
 
 ### Sample Queries
@@ -132,27 +153,6 @@ Solution: Check internet connection and API rate limits
 - [ ] Test query executed successfully
 
 ---
-
-**Last Updated**: January 2025  
-**Version**: 1.0.0  
-**Maintainer**: Development TeamOverview
-
-The Real Estate AI Assistant is an intelligent Streamlit-based application that provides conversational AI capabilities for real estate data analysis and customer support. The system leverages Google's Gemini AI models and FAISS vector search to deliver contextual responses based on uploaded property data and guidelines.
-
-## 🎯 Key Features
-
-### Core Functionality
-- **Intelligent Document Processing**: Supports both property data (Excel/CSV) and guideline documents (PDF)
-- **Vector-Based Search**: Uses FAISS indexing with Google's embedding models for semantic search
-- **Conversational AI Interface**: Chat-based interaction powered by Google Gemini 2.5 Pro
-- **Real-time Data Processing**: Asynchronous embedding generation for optimal performance
-- **Multi-format Support**: Handles CSV, Excel (.xls, .xlsx), and PDF file formats
-
-### User Experience
-- **Interactive Chat Interface**: Persistent conversation history with context retention
-- **Quick Action Buttons**: Pre-configured queries for common real estate inquiries
-- **Progress Tracking**: Real-time feedback during data processing operations
-- **Responsive Design**: Mobile-friendly interface with custom CSS styling
 
 ## 🏗️ Architecture Overview
 
