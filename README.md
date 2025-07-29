@@ -109,29 +109,14 @@ Solution: Check internet connection and API rate limits
 - [ ] Map-based property visualization
 - [ ] User authentication and personalization
 
-## 📞 Support & Maintenance
+# OUTPUT
+# Frontend 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b845487-35bd-496f-8f83-a307da1952d3" />
+# Generated Response
+<img width="1919" height="1072" alt="image" src="https://github.com/user-attachments/assets/30fe4e0c-2a3c-4816-8a4a-220f11e0dddb" />
+# Video Demo
 
-### Support Channels
-- **Technical Issues**: Create GitHub issues with detailed logs
-- **Feature Requests**: Submit enhancement proposals
-- **Documentation**: Update inline comments and README
 
-### Maintenance Schedule
-- **Weekly**: Monitor API usage and performance metrics
-- **Monthly**: Update dependencies and security patches
-- **Quarterly**: Review and optimize vector search performance
-
-## 📄 License & Compliance
-
-### Third-Party Services
-- **Google AI Platform**: Subject to Google Cloud Terms of Service
-- **Streamlit**: Open source framework under Apache 2.0 License
-- **FAISS**: Facebook AI Similarity Search under MIT License
-
-### Data Handling Compliance
-- Ensure GDPR compliance for EU user data
-- Implement data retention policies
-- Maintain audit logs for data access and processing
 
 ---
 
