@@ -239,7 +239,7 @@ langchain-core>=0.1.0
 ### 1. Environment Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Navaneeth011/Real-Estate-RAG.git
 cd real-estate-assistant
 
 # Create virtual environment
