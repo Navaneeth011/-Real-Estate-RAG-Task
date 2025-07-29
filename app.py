@@ -164,7 +164,7 @@ EMBEDDING_MODEL = "embedding-001"  # Google embedding model
 GENERATIVE_MODEL = "gemini-2.5-pro"  # Gemini model for text generation
 VECTOR_DIM = 768  # Dimension for embedding-001
 DATA_DIR = "data"
-API_KEY = "AIzaSyDc8MxpQ6JbFwP8R1J7qnnfUHj47C7bLt0"  # Hardcoded API key (insecure, for testing only)
+API_KEY = "ENTER YOUR API KEY"  # Hardcoded API key (insecure, for testing only)
 
 def get_gemini_client():
     """Initialize Gemini client with hardcoded API key"""
