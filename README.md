@@ -112,8 +112,10 @@ Solution: Check internet connection and API rate limits
 # OUTPUT
 # Frontend 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b845487-35bd-496f-8f83-a307da1952d3" />
+
 # Generated Response
 <img width="1919" height="1072" alt="image" src="https://github.com/user-attachments/assets/30fe4e0c-2a3c-4816-8a4a-220f11e0dddb" />
+
 # Video Demo
 
 
